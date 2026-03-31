@@ -26,5 +26,5 @@ Kami menggunakan UFW (Uncomplicated Firewall) dengan konfigurasi Default Deny un
 
 ## 5. Verifikasi Logging (Minggu ke-5)
 Berikut adalah bukti bahwa Security Onion telah terinstal dan aktif merekam aktivitas jaringan.
-![Sguil Dashboard - ICMP Record](./assets/Hardening.png)
+![Sguil Dashboard - ICMP Record](./assets/Hardening_Onion.png)
 * **Keterangan**: Gambar di atas menunjukkan *log* aktivitas ICMP (Ping) dari IP Attacker (`[IP Attacker]`) menuju IP Target (`[IP Target]`) beserta *timestamp*-nya.
