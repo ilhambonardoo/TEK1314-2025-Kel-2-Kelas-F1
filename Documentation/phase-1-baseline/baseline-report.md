@@ -22,7 +22,7 @@ Kami telah melakukan penguatan pada sistem operasi dengan langkah berikut:
 
 ## 4. Network Hardening (Firewall)
 Kami menggunakan UFW (Uncomplicated Firewall) dengan konfigurasi Default Deny untuk incoming traffic.
-![Bukti Konfigurasi UFW](./assets/ufw-rules.png)
+![Bukti Konfigurasi UFW](./assets/Konfigurasi_Firewall.png)
 
 ## 5. Verifikasi Logging (Minggu ke-5)
 Berikut adalah bukti bahwa Security Onion telah terinstal dan aktif merekam aktivitas jaringan.
