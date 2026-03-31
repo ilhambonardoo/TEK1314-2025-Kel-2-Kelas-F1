@@ -7,7 +7,7 @@
 * **IP Address Attacker/Client**: 192.168.69.20 / 192.168.69.10
 
 ## 2. Topologi Jaringan
-![Topologi Jaringan](./assets/topologi.png)
+![Topologi Jaringan](./assets/Topologi.jpeg)
 Hardening adalah proses memperkuat keamanan server dengan menutup celah-celah yang tidak diperlukan.
   Dalam konteks tugasmu:
     1. Server (Target) dikunci menggunakan Firewall (UFW) agar hanya pintu (port) penting saja yang terbuka.
