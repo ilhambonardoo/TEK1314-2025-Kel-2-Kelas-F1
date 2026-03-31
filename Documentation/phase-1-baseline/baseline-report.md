@@ -17,7 +17,7 @@ Hardening adalah proses memperkuat keamanan server dengan menutup celah-celah ya
 ## 3. System Hardening
 Kami telah melakukan penguatan pada sistem operasi dengan langkah berikut:
 1. **Penonaktifan Layanan**: Mematikan layanan [sebutkan layanan, misal: telnet/ftp] yang tidak diperlukan.
-2. **Manajemen User**: Menonaktifkan login root langsung dan membuat user non-root bernama `[nama user]`.
+2. **Manajemen User**: Menonaktifkan login root langsung dan membuat user non-root bernama `[SRV-WEB-KEL02F]`.
 3. **Security Patch**: Melakukan update OS ke versi patch terbaru.
 
 ## 4. Network Hardening (Firewall)
